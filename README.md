@@ -1,5 +1,7 @@
 # Blog_platform_api
 
+This is the project link: https://roadmap.sh/projects/blogging-platform-api
+
 ## Running the Application
 
 1. Initialize the Database: Run the app once to set up the `blog.db` SQLite file.
